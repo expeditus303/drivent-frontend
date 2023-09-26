@@ -1,4 +1,4 @@
-# drivent-front
+# Driven.t
 
 Front-end for Driven.t, an event management solution.
 
